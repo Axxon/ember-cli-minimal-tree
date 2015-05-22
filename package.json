@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-minimal-tree",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.0.1",
+  "description": "A minimal ember menu tree",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -35,7 +35,9 @@
     "ember-try": "0.0.4"
   },
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "menu",
+    "tree"
   ],
   "dependencies": {
     "ember-cli-babel": "^5.0.0"
