@@ -1,5 +1,8 @@
 'use strict';
 
 module.exports = function(/* environment, appConfig */) {
-  return { };
+  var ENV = {
+    podModulePrefix: 'ember-cli-minimal-tree'
+  };
+  return ENV;
 };
