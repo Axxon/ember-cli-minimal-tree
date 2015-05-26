@@ -59,6 +59,10 @@ Category.reopenClass({
 
 export default Category;
 ```
+Next in your template:
+```handlebars
+{{tree-branch node=model childToAdd="addChild" nodeToRemove="removeNode"}}
+```
 ## Improvements and remarks
 
 This addon is pretty minimalistic isn't it ? The reason of his born was first for 
