@@ -62,6 +62,6 @@ export default Category;
 ## Improvements and remarks
 
 This addon is pretty minimalistic isn't it ? The reason of his born was first for 
-education and next cause i did'nt find a way to make run more complex projects who
-could serve this purpose, i'll see in a near time if tree project like will work more
-easily with latest version of ember.
+education and next cause i did'nt find a way to make run more usefull but complex 
+projects who could serve this purpose, i'll see in a near time if tree project like 
+will work more easily with latest version of ember.
