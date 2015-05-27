@@ -6,7 +6,6 @@ removes categories on first level or in subdirectories.
 ## Installation
 
 * `npm install ember-cli-minimal-tree`
-* `bower install`
 
 ## Running
 
