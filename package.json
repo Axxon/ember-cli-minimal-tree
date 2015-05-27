@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-minimal-tree",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A minimal ember menu tree",
   "directories": {
     "doc": "doc",
