@@ -7,7 +7,7 @@ export default Ember.Component.extend({
     return this.get("node").filter(function(node) {
       return node.get("isFirstLevel");
     });
-  }.property("node"),
+  },
   actions:{
     addChild: function(newNodeName, parentNode) {
       this.sendAction('childToAdd', newNodeName, parentNode);

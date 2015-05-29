@@ -1,3 +1,3 @@
-import TreeNodeComponent from 'ember-cli-minimal-tree/tree-node';
+import TreeNodeComponent from 'ember-cli-minimal-tree/components/tree-node';
 
 export default TreeNodeComponent;
