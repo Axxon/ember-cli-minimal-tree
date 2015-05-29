@@ -1,5 +1,6 @@
 module.exports = {
-  description: ''
+  normalizeEntityName: function() {}
+
 
   // locals: function(options) {
   //   // Return custom template variables here.
