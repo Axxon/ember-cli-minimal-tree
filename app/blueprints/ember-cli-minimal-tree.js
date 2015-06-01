@@ -1,1 +1,0 @@
-export { default } from 'ember-cli-minimal-tree/blueprints/ember-cli-minimal-tree';
